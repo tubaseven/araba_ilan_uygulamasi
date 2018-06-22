@@ -1,0 +1,5 @@
+C:\Users\Radmin\Documents\Visual Studio 2013\Projects\Prolab4\Test\bin\Debug\Test.exe.config
+C:\Users\Radmin\Documents\Visual Studio 2013\Projects\Prolab4\Test\bin\Debug\Test.exe
+C:\Users\Radmin\Documents\Visual Studio 2013\Projects\Prolab4\Test\bin\Debug\Test.pdb
+C:\Users\Radmin\Documents\Visual Studio 2013\Projects\Prolab4\Test\obj\Debug\Test.exe
+C:\Users\Radmin\Documents\Visual Studio 2013\Projects\Prolab4\Test\obj\Debug\Test.pdb

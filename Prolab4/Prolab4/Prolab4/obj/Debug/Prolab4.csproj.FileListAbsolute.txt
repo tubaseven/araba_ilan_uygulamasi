@@ -1,0 +1,11 @@
+c:\users\radmin\documents\visual studio 2013\Projects\Prolab4\Prolab4\bin\Debug\Prolab4.exe.config
+c:\users\radmin\documents\visual studio 2013\Projects\Prolab4\Prolab4\obj\Debug\Prolab4.csprojResolveAssemblyReference.cache
+c:\users\radmin\documents\visual studio 2013\Projects\Prolab4\Prolab4\obj\Debug\Prolab4.Properties.Resources.resources
+c:\users\radmin\documents\visual studio 2013\Projects\Prolab4\Prolab4\obj\Debug\Prolab4.csproj.GenerateResource.Cache
+c:\users\radmin\documents\visual studio 2013\Projects\Prolab4\Prolab4\bin\Debug\Prolab4.exe
+c:\users\radmin\documents\visual studio 2013\Projects\Prolab4\Prolab4\bin\Debug\Prolab4.pdb
+c:\users\radmin\documents\visual studio 2013\Projects\Prolab4\Prolab4\obj\Debug\Prolab4.exe
+c:\users\radmin\documents\visual studio 2013\Projects\Prolab4\Prolab4\obj\Debug\Prolab4.pdb
+C:\Users\Radmin\Documents\Visual Studio 2013\Projects\Prolab4\Prolab4\obj\Debug\Prolab4.SecimFormu.resources
+C:\Users\Radmin\Documents\Visual Studio 2013\Projects\Prolab4\Prolab4\obj\Debug\Prolab4.SistemFormu.resources
+C:\Users\Radmin\Documents\Visual Studio 2013\Projects\Prolab4\Prolab4\obj\Debug\Prolab4.IlanlarFormu.resources
